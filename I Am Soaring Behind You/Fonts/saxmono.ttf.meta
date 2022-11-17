@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7204409ef778684a8a9a52ac2c96985
+timeCreated: 1551370519
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: saxMono
+  fontNames:
+  - saxMono
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
