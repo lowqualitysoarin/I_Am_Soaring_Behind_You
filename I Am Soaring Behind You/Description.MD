@@ -18,12 +18,15 @@ All I ask is a credit.
 
 [Credits]
 low_quality_soarin (Mr. Macbeth) - Coding/Animations/Writing/Modeling
+</br   >
 Hasbro (MLP:FiM) and ChainChomp2 (Vector Art) - Soarin'
 
 </br   >
 
 SEGA and Ryu Ga Gotoku Studio - Akira Nishikiyama
+</br   >
 Michael Rosenbaum - Nishiki's Voice
+</br   >
 Dreamybullxxx - Ambatukam
 
 </br   >
@@ -34,7 +37,11 @@ check the bathroom = Alternative Ending Inspiration (https://steamcommunity.com/
 
 [Music Used]
 Lost In The Rain - SEGA SOUND TEAM
+</br   >
 For Whose Sake - SEGA SOUND TEAM
+</br   >
 Independence for Violence - SEGA SOUND TEAM
+</br   >
 Recieve You The Hyperactive - SEGA SOUND TEAM
+</br   >
 For Buddy - SEGA SOUND TEAM
