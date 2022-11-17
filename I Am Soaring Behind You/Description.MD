@@ -4,6 +4,8 @@ I Am Soaring Behind You [A Ravenfield Horror/Comedy Game]
 
 "I Am Soaring Behind You" is a Survival Horror, Task Based, Roguelike minigame highly inspired by some Indie Horror Games.
 
+</br   >
+
 You take control of a random mandatory Soldier who accepted the job from the Commander. No one ever taken the job after the multiple dissapearance of 
 other people after accepting the task. Soo you went ahead and decided to cooperate and do the job, what could go wrong?
 
@@ -17,6 +19,7 @@ All I ask is a credit.
 </br   >
 
 [Credits]
+</br   >
 low_quality_soarin (Mr. Macbeth) - Coding/Animations/Writing/Modeling
 </br   >
 Hasbro (MLP:FiM) and ChainChomp2 (Vector Art) - Soarin'
@@ -36,6 +39,7 @@ check the bathroom = Alternative Ending Inspiration (https://steamcommunity.com/
 </br   >
 
 [Music Used]
+</br   >
 Lost In The Rain - SEGA SOUND TEAM
 </br   >
 For Whose Sake - SEGA SOUND TEAM
