@@ -24,7 +24,7 @@ low_quality_soarin (Mr. Macbeth) - Coding/Animations/Writing/Modeling
 
 </br   >
 
-Hasbro (MLP:FiM) and ChainChomp2 (Vector Art) - Soarin'
+Hasbro (MLP:FiM) - Soarin'
 </br   >
 ChainChomp2 - Soarin's Vector Art (https://derpibooru.org/images/2315079?q=artist%3Achainchomp2)
 
