@@ -23,6 +23,8 @@ All I ask is a credit.
 low_quality_soarin (Mr. Macbeth) - Coding/Animations/Writing/Modeling
 </br   >
 Hasbro (MLP:FiM) and ChainChomp2 (Vector Art) - Soarin'
+</br   >
+ChainChomp2 - Soarin's Vector Art (https://derpibooru.org/images/2315079?q=artist%3Achainchomp2)
 
 </br   >
 
@@ -34,6 +36,8 @@ Dreamybullxxx - Ambatukam
 
 </br   >
 
+KrStolorz - BMW E30 Model (https://sketchfab.com/3d-models/low-poly-bmw-e30-fl-free-download-e453bdae0ee1423ea79f1322db1c7459)
+</br   >
 check the bathroom = Alternative Ending Inspiration (https://steamcommunity.com/sharedfiles/filedetails/?id=2877746833&searchtext=signaler)
 
 </br   >
