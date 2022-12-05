@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1974425149149318
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4390912376968042}
+  - component: {fileID: 114021989382023318}
+  m_Layer: 0
+  m_Name: IASBY_E3090
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4390912376968042
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974425149149318}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114021989382023318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974425149149318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6ddc24f301b8440a0e01239cb12397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: My Cool Vehicle Mod
+  variants:
+  - name: IASBY 3090
+    jeep: {fileID: 3613435353593667303, guid: 6d12990652dffbf4d8d6895e74d524c0, type: 3}
+    jeepMachineGun: {fileID: 3613435353593667303, guid: 6d12990652dffbf4d8d6895e74d524c0, type: 3}
+    quad: {fileID: 0}
+    tank: {fileID: 0}
+    apc: {fileID: 0}
+    attackBoat: {fileID: 0}
+    rhib: {fileID: 0}
+    attackHelicopter: {fileID: 0}
+    transportHelicopter: {fileID: 0}
+    attackPlane: {fileID: 0}
+    bombPlane: {fileID: 0}
+    turretMachineGun: {fileID: 0}
+    turretAntiTank: {fileID: 0}
+    turretAntiAir: {fileID: 0}
