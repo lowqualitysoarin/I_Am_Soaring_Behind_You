@@ -228,9 +228,6 @@ function IASBY_Nishiki:Update()
 		if (self.playerCaught) then
 			PlayerCamera.activeCamera.transform.LookAt(self.nishikiLookPos.position)
 		end
-
-
-		print(self.currentState)
     end
 end
 
